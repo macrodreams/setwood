@@ -1,2 +1,2 @@
 # setwood
-Wedding Wordpress Theme
+Wordpress Theme
